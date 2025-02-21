@@ -1,6 +1,6 @@
 # Product Management Interview Bot
 
-An interactive command-line bot designed to simulate a product management interview. This tool leverages GPT-4 for generating interview questions, evaluating user responses based on a detailed rubric, and providing guidance on how to answer questions effectively. The bot integrates speech recognition and text-to-speech functionalities to offer a hands-free, conversational experience.
+An interactive command-line bot designed to simulate a product management interview. This tool leverages GPT-4 along with ChromaDB for generating interview questions, evaluating user responses based on a detailed rubric, and providing guidance on how to answer questions effectively. The bot integrates speech recognition and text-to-speech functionalities to offer a hands-free, conversational experience.
 
 ## Features
 
